@@ -1,0 +1,4 @@
+python data_preprocessing.py
+python train.py
+python validate.py
+python continue_training.py
